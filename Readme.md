@@ -26,8 +26,11 @@ src/
 │   └── user.d.ts
 ├── app.ts               # Express app initialization
 ├── server.ts            # Server listener
-└── constants/           # Constant values, enums, etc.
-    └── roles.ts
+├── constants/           # Constant values, enums, etc.
+│   └── roles.ts
+├── package.json
+├── tsconfig.json
+├── .env
 ```
 
 ## 🔧 How It All Connects
